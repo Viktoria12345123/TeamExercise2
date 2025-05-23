@@ -6,6 +6,6 @@
 | Team Member | Role         | Functionality                     |
 |-------------|--------------|-----------------------------------|
 | Viki        | Questioner   | Search Form                       |
-| none        | Offerer      | Our Offers Form                   |
+| Tsvetoslav  | Offerer      | Our Offers Form                   |
 | none        | Admin        | Guest Details Form                |
 | none        | Verifier     | Confirm Reservation Form          |
