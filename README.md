@@ -7,5 +7,5 @@
 |-------------|--------------|-----------------------------------|
 | Viki        | Questioner   | Search Form                       |
 | Tsvetoslav  | Offerer      | Our Offers Form                   |
-| none        | Admin        | Guest Details Form                |
+| Blagoy      | Admin        | Guest Details Form                |
 | none        | Verifier     | Confirm Reservation Form          |
